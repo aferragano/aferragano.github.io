@@ -1,0 +1,40 @@
+
+p {
+	font-size: 18 em;
+	color:#5691B0
+	background:#FFE8C9;
+}
+
+
+h1 {
+	font-size:22 em;
+	color:#46E0AA;
+}
+
+h2 {
+	font-family: "Times New Roman",Georgia,Serif;
+	font-size:22 em;
+	color:#46E0AA;
+}
+
+h3 {
+	font-family: Georgia,Serif;
+	font-size:18 em;
+	color:#46E0AA;
+}
+
+#img1{
+	height: 360px;
+	width: 287px;
+}
+#img2{ 
+  height:287px;
+  width:400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #666;
+  background: #ffffff;
+}
+#container1{
+	background:#FFFFC9;
+}
