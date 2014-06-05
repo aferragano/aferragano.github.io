@@ -1,0 +1,109 @@
+header {
+	color:#006D4C;
+	font-size: 3em;
+	font-weight: bold;
+	font-family: Verdana, sans-serif;
+	letter-spacing: 10px;
+	text-decoration: underline;
+	margin: 20px;
+	margin-bottom: 40px;
+	text-align: center;
+}
+
+p {
+	font-size: 18 em;
+	color:#5691B0;
+}
+
+a:link{
+	color:white;
+	text-decoration: none
+
+}
+
+a:visited{
+	color:#B0F26D;
+	text-decoration: none;
+}
+
+a:hover{
+	color:black;
+	text-decoration: none;
+	font-size: 22px;
+}
+
+
+
+
+#container {
+	float:center;
+	margin: auto;
+	width: 85%;
+
+}
+
+#left {
+	float:left;
+	width: 248px;
+	background:#00A876;
+	color:#F7FE72;
+	padding: 3px;
+	height:350px;
+	border-top-right-radius: 150px;
+	border-bottom-left-radius: 200px;
+	border-bottom-right-radius: 18px;
+}
+
+#right {
+	float: right;
+	width: 70%;
+	color:#006D4C;
+	background:#F7FE72;
+	padding: 6px;
+	border-top-right-radius: 90px;
+	border-bottom-left-radius: 200px;
+	border-bottom-right-radius: 18px;
+	
+}
+#img1{
+	height: 360px;
+	width: 287px;
+	border-bottom-left-radius: 120px;
+}
+
+#img2{
+	height: 60%;
+	width: 60%;
+	border-top-right-radius: 90px;
+	border-bottom-left-radius: 110px;
+	border-bottom-right-radius: 8px;
+}
+
+#inright {
+	float:right;
+	width:400px;
+
+}
+
+#inleft {
+	float:left;
+}
+.pfoot {
+	float:left;
+	clear:both;
+	background: #006D4C;
+	color: white;
+	font-size: 1em;
+	font-weight: bold;
+	font-family: Verdana, sans-serif;
+	letter-spacing: 13px;
+	margin: 40px;
+	padding: 10px;
+	text-align: center;
+	width:90%;
+	border-radius: 200px;
+}
+#fltext {
+	float:right;
+	color:black;
+}
