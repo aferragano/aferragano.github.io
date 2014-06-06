@@ -1,0 +1,105 @@
+header {
+	color:#FCFFAA;
+	font-size: 3em;
+	font-weight: bold;
+	font-family:  Georgia;
+	letter-spacing: 10px;
+	text-decoration: none;
+	margin: 20px;
+	margin-bottom: 40px;
+	padding: 10px;
+	text-align: center;
+	background:#00A876;
+	border-top-right-radius: 110px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 18px;
+}
+html {
+	background: #C8FDA8;
+}
+p {
+	font-size: 16px;
+	color:#C8FDA8;
+	padding:20px;
+}
+
+a:link{
+	color:white;
+	text-decoration: none
+
+}
+h1 {
+	font-family:  Georgia;
+	letter-spacing: 5px;
+	color:#FCFFAA;
+}
+
+a:visited{
+	color:#B0F26D;
+	text-decoration: none;
+}
+
+a:hover{
+	color:#C8FDA8;
+	text-decoration: none;
+	font-size: 22px;
+}
+
+
+
+
+#container {
+	float:center;
+	margin: auto;
+	width: 85%;
+
+}
+
+#left {
+	float:left;
+	width: 248px;
+	background:#00A876;
+	color:#FCFFAA;
+	padding: 3px;
+	height:350px;
+	border-top-right-radius: 150px;
+	border-bottom-left-radius: 200px;
+	border-bottom-right-radius: 18px;
+}
+
+#right {
+	float: right;
+	width: 70%;
+	color:#C8FDA8;
+	background:#00A876;
+	padding: 4px;
+	margin: 10px;
+	border-top-right-radius: 110px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 18px;
+	
+}
+
+.pfoot {
+	float:left;
+	clear:both;
+	background:#00A876;
+	color:#FCFFAA;
+	font-size: 1em;
+	font-weight: bold;
+	font-family: Verdana, sans-serif;
+	letter-spacing: 13px;
+	margin: 40px;
+	padding: 10px;
+	width:90%;
+	border-radius: 200px;
+	text-align: center;
+	background:#00A876;
+	border-top-right-radius: 110px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 18px;
+}
+#fltext {
+	float:right;
+	color:#FCFFAA;
+}
