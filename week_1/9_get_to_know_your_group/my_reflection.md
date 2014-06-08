@@ -41,7 +41,15 @@ aferragano.com
 
 		Alex
 
+
+
+
 Take a moment to reflect on reading other people's responses regarding their fears about DBC. How did that make you feel? Did you feel better, worse, or something else all together? How has your experience this week influenced your feelings? All feelings are welcome and ok. Just take a moment to think about it and write it down. 
 
 <!-- Insert your response here -->
 
+I agree with a lot of the responses out there. I agree that this is going to be a greatly intense experience, however, getting through this week, I feel that it is possible to do… all of this. The hesitations and reservations well all have depending from either spectrum are all valid to us, but will become irrelevant shortly. I feel, mostly better this week. My only reservation now is not to hold anyone back, while achieving my educational goals. 
+
+
+
+I have yet to receive an email response from Faraaz, which worries me a little bit. Since it is such a communal learning environment, we all depend on each other and open communication. 
