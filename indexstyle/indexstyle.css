@@ -1,0 +1,141 @@
+
+/* General Styles */
+
+
+/* header and footer */
+header{
+	height:100px;
+	width:100%;
+	background-color: #94E5F1;
+	margin:20px;
+	color:white;
+	font-size: 3em;
+	text-align:center;
+	padding:10px;
+	border-top-right-radius: 100%;
+	border-bottom-left-radius: 100%;
+	border-bottom-right-radius: 100%;
+	border-top-left-radius: 100%;
+}
+
+
+/* container */
+
+#container {
+	width:85%;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Rokkitt', serif;
+	font-size:1.22em;
+	float:center;
+	background-color: #FFF8C5;
+}
+
+
+/* nav and links */
+
+nav {
+	float: left;
+	
+	
+
+}
+ul {
+	background-color: #99EE6B;
+	height: 15%;
+	width:70px;
+	padding:40px;
+	margin:2px;
+	border-top-right-radius: 80%;
+	border-bottom-left-radius: 100%;
+	
+}
+
+
+
+/* sepp */
+#sepp {
+	float:left;
+	background-color:#BF8130;
+	height:850px;
+	width:4%;
+	border-top-right-radius: 300px;
+}
+#sepp2 {
+	float:left;
+	background-color:#A67400;
+	height:850px;
+	width:2%;
+	margin-left: -10px;
+}
+
+/* about */
+.about {
+	width: 70%;
+	margin:0px;
+	padding:2px;
+	float:left;
+	margin-left: auto;
+	
+}
+#aboutme {
+	background-color: #99EE6B;
+	width:60%;
+	padding:35px;
+	margin:2px;
+	border-bottom-right-radius: 80px;
+	border-top-left-radius: 100px;
+	float:right;
+}
+.branch {
+	background-color: #BF8130;
+	height: 5px;
+	width:450px;
+	padding:20px;
+	margin:2px;
+	border-bottom-right-radius: 80px;
+	border-top-left-radius: 100px;
+}
+
+
+
+
+#facepic {
+	border-bottom-right-radius: 80px;
+	border-top-left-radius: 100px;
+}
+
+/* blog zone */
+.techblog, .cultblog, .wireframeblog {
+	background-color: #99EE6B;
+	height: 45px;
+	width:auto;
+	padding:40px;
+	margin:20px;
+	border-bottom-right-radius: 80px;
+	border-top-left-radius: 100px;
+	float:left;
+}
+
+
+
+/* pseudo */ 
+a:link {
+	font-size: 1.4em;
+	font-weight: bolder;
+	text-decoration: none;
+	color:#41B856;
+}
+:visited {
+	color:#007F16;
+
+}
+a:hover{
+	font-size:2em;
+
+}
+
+:active{
+
+}
+
