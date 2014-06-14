@@ -4,7 +4,7 @@
 
 /* header and footer */
 header{
-	height:100px;
+	height:40%;
 	width:100%;
 	background-color: #94E5F1;
 	margin:20px;
@@ -29,6 +29,7 @@ header{
 	font-size:1.22em;
 	float:center;
 	background-color: #FFF8C5;
+	height:100%;
 }
 
 
@@ -72,7 +73,7 @@ ul {
 /* about */
 .about {
 	width: 70%;
-	margin:0px;
+	margin:2px;
 	padding:2px;
 	float:left;
 	margin-left: auto;
@@ -82,7 +83,7 @@ ul {
 	background-color: #99EE6B;
 	width:60%;
 	padding:35px;
-	margin:2px;
+	margin:-6px;
 	border-bottom-right-radius: 80px;
 	border-top-left-radius: 100px;
 	float:right;
@@ -90,7 +91,7 @@ ul {
 .branch {
 	background-color: #BF8130;
 	height: 5px;
-	width:450px;
+	width:400px;
 	padding:20px;
 	margin:2px;
 	border-bottom-right-radius: 80px;
@@ -103,6 +104,7 @@ ul {
 #facepic {
 	border-bottom-right-radius: 80px;
 	border-top-left-radius: 100px;
+	margin:2px;
 }
 
 /* blog zone */
@@ -111,7 +113,7 @@ ul {
 	height: 45px;
 	width:auto;
 	padding:40px;
-	margin:20px;
+	margin:2px;
 	border-bottom-right-radius: 80px;
 	border-top-left-radius: 100px;
 	float:left;
