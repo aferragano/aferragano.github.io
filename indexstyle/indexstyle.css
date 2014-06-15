@@ -58,14 +58,14 @@ ul {
 #sepp {
 	float:left;
 	background-color:#BF8130;
-	height:850px;
+	height:1050px;
 	width:4%;
 	border-top-right-radius: 300px;
 }
 #sepp2 {
 	float:left;
 	background-color:#A67400;
-	height:850px;
+	height:1050px;
 	width:2%;
 	margin-left: -10px;
 }
@@ -110,7 +110,7 @@ ul {
 /* blog zone */
 .techblog, .cultblog, .wireframeblog {
 	background-color: #99EE6B;
-	height: 45px;
+	height: auto;
 	width:auto;
 	padding:40px;
 	margin:2px;
