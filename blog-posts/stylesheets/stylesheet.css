@@ -1,27 +1,28 @@
 header {
-	color:#FCFFAA;
+	color:white;
 	font-size: 3em;
 	font-weight: bold;
-	font-family:  Georgia;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 10px;
 	text-decoration: none;
 	margin: 20px;
 	margin-bottom: 40px;
 	padding: 10px;
 	text-align: center;
-	background:#00A876;
+	background:#99EE6B;
 	border-top-right-radius: 110px;
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius: 18px;
+	width:100%;
 }
 html {
-	background: #C8FDA8;
+	background: white;
 }
 p {
 	font-size: 16px;
-	font-family: sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 2px;
-	color:#C8FDA8;
+	color:black;
 	padding:20px;
 }
 
@@ -31,23 +32,39 @@ a:link{
 
 }
 h1 {
-	font-family:  Georgia;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 5px;
-	color:#FCFFAA;
+	color:white;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: 2px;
+	color:black;
+	font-weight: bold;
+}
+h3 {
+	font-family: 'Open Sans', sans-serif;
+	letter-spacing: 2px;
+	color:black;
+	font-weight: bold;
 }
 
 a:visited{
-	color:#B0F26D;
+	color:#00A876;
 	text-decoration: none;
 }
 
 a:hover{
-	color:#C8FDA8;
+	color:white;
 	text-decoration: none;
 	font-size: 22px;
 }
 
-
+.box {
+	margin-right: auto;
+	margin-left: auto;
+}
 
 
 #container {
@@ -59,11 +76,12 @@ a:hover{
 
 #left {
 	float:left;
-	width: 248px;
-	background:#00A876;
-	color:#FCFFAA;
-	padding: 3px;
-	height:350px;
+	text-align: left;
+	width: 150px;
+	background:#99EE6B;
+	color:white;
+	padding: auto;
+	height:300px;
 	border-top-right-radius: 150px;
 	border-bottom-left-radius: 200px;
 	border-bottom-right-radius: 18px;
@@ -72,14 +90,13 @@ a:hover{
 #right {
 	float: right;
 	width: 70%;
-	color:#C8FDA8;
-	background:#00A876;
-	padding: 4px;
-	margin: 10px;
+	color:black;
+	background:#99EE6B;
+	padding: 8px;
+	margin: 4px;
 	border-top-right-radius: 110px;
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius: 18px;
-	
 }
 #wcenter {
 	float: center;
@@ -97,21 +114,20 @@ a:hover{
 .pfoot {
 	float:left;
 	clear:both;
-	background:#00A876;
+	background:#99EE6B;
 	color:#FCFFAA;
 	font-size: 1em;
 	font-weight: bold;
-	font-family: Verdana, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	letter-spacing: 13px;
 	margin: 40px;
 	padding: 10px;
 	width:90%;
 	border-radius: 200px;
 	text-align: center;
-	background:#00A876;
-	border-top-right-radius: 110px;
+	border-top-right-radius: 0px;
 	border-bottom-left-radius: 20px;
-	border-bottom-right-radius: 18px;
+	
 }
 #fltext {
 	float:right;
