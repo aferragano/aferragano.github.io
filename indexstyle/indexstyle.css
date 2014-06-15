@@ -58,16 +58,19 @@ ul {
 #sepp {
 	float:left;
 	background-color:#BF8130;
-	height:1050px;
+	vertical-align: bottom;
+	height: 1350px;
 	width:4%;
 	border-top-right-radius: 300px;
 }
 #sepp2 {
 	float:left;
 	background-color:#A67400;
-	height:1050px;
+	vertical-align: bottom;
+	height: 1350px;
 	width:2%;
 	margin-left: -10px;
+
 }
 
 /* about */
@@ -113,7 +116,7 @@ ul {
 	height: auto;
 	width:auto;
 	padding:40px;
-	margin:2px;
+	margin:8px;
 	border-bottom-right-radius: 80px;
 	border-top-left-radius: 100px;
 	float:left;
