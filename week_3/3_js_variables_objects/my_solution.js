@@ -1,9 +1,11 @@
-// I paired [by myself, with:] on this challenge.
+// I paired by myself on this challenge.
 
-// __________________________________________
 // Write your code below.
 
-
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = (10 < 'sam');
+var members = [ "John", "script", 3, "Mary"];
 
 
 
@@ -12,9 +14,10 @@
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
-// 
-// 
-// 
+// WOW! Looking back it was really easy, however, it took me sooo long 
+// It was rather frustrating to go back and forth, but all-in-all good exercise.
+// There is so much to know and learn. 
+// I had to use a lot of reference to complete this challenge.
 // 
 // 
 // 
