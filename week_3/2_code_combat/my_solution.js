@@ -5,12 +5,107 @@
 // command + / This will comment the line. 
  
  
+ //Rescue Mission
+
+this.moveDown();
+this.moveDown();
+this.moveRight();
+this.moveUp();
+this.moveUp();
+this.moveRight();
+this.moveRight();
+this.moveDown();
+this.attackNearbyEnemy();
+
+ //Grab the mushroom
+this.moveUp();
+this.moveRight();
+this.moveLeft();
+this.moveUp();
+this.attackNearbyEnemy();
+
+
+ //Drink Me
+this.attackNearbyEnemy();
+this.moveRight();
+this.moveDown();
+this.moveUp();
+this.moveRight();
+this.attackNearbyEnemy();
+
+ //Taunt the Guards
+this.moveRight();
+this.bustDownDoor();
+this.moveRight();
+this.say("Hey there!");
+this.moveLeft();
+this.moveLeft();
+this.say("Attack!");
+this.moveRight();
+this.say("Follow me.");
+this.moveRight();
+this.moveRight();
+this.moveUp();
+this.moveRight();
+this.say("Hey there!");
+this.say("Attack!");
+this.say("Attack!");
+this.attackNearbyEnemy();
+this.say("Follow me.");
+this.moveRight();
+this.moveRight();
+
+
+ //It's a trap
+this.moveDown();
+this.moveDown();
+this.say("Follow me");
+this.moveUp();
+this.moveUp();
+this.say("fire");
+
+
+ //break the prison
+this.say("Hey!");
+this.say("Jerk");
+this.say("smelly");
+this.say("YO MOMMA");
+this.say("mooo");
+
+
+ //taunt
+this.moveXY(50, 16);
+this.moveXY(63, 20);
+this.moveXY(70, 10); 
+this.say("I can lure them in here.");
+this.moveXY(61, 31);
+this.say("Gypsy Magic");
+this.moveXY(70, 10);
+
+
+ //cowardly followers
+ this.moveXY(49, 66);
+this.moveXY(60, 63);
+this.moveXY(75, 63);
+this.say("Hail, friends!");
+this.say("Follow me!");
+this.moveXY(62,42);
+this.say("attack");
  
- 
- 
- 
- 
- 
+ //mobile artillery
+this.moveXY(30, 26);  
+this.attackXY(46, 5); 
+this.moveXY(42, 40); 
+this.attackXY(47, 66);
+this.attackXY(48, 57);
+this.attackXY(66, 54);
+this.attackXY(60, 49);
+
+
  
 // Reflection:
-// Write your reflection here.
+// Write your reflection here.....
+//'this' refers to the obect we were primarily using... which was Tharin
+// '()' the parenthesis are used to give location on the page
+// the semicolons are used to end the line of code, finishing/completing that segment of code
+
