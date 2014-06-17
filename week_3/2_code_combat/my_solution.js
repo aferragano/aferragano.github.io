@@ -105,7 +105,17 @@ this.attackXY(60, 49);
  
 // Reflection:
 // Write your reflection here.....
-//'this' refers to the obect we were primarily using... which was Tharin
+//'this' refers to the obyect we were primarily using... which was Tharin
 // '()' the parenthesis are used to give location on the page
 // the semicolons are used to end the line of code, finishing/completing that segment of code
+
+//More reflection:
+
+//This was a really cool exercise! I am so impressed on how many different and 
+//fun resources there are online. Some of it was a little silly, but it was a 
+//great ice-breaker into  JS. I hope to continue using fun interactive resource 
+//like this to continue my education, and really develop my skills. 
+
+//I am excited and a bit nervous for JS. Although this was simple, 
+//it was meant to be. I There is SO much more to know!
 
