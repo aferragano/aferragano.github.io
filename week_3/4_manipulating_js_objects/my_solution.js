@@ -43,9 +43,9 @@ adam.children = terah.children;
 // Looking back, I learned a lot in this challenge. I used a lot of reference to help
 // understand what I was doing, and why the code was/wasn't working.
 // This would have been a great challenge to do in pairs I think!
-// 
-// 
-// 
+// I started understanding the structure and syntax a lot more with each example.
+// I got tripped up by things like adding empty attributes of children,
+// then adding each child as an attribute... but it makes sense!
 
 
 // __________________________________________
