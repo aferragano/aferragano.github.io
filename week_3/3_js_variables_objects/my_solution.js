@@ -16,7 +16,7 @@ var members = [ "John", "script", 3, "Mary"];
 // Reflection: Use the reflection guidelines to write a reflection here. 
 // WOW! Looking back it was really easy, however, it took me sooo long 
 // It was rather frustrating to go back and forth, but all-in-all good exercise.
-// There is so much to know and learn. 
+// There is so much to know and learn.
 // I had to use a lot of reference to complete this challenge.
 // 
 // 

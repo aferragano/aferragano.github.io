@@ -17,18 +17,32 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+var adam = {
+  name:"Adam"
+}
 
+terah.spouse= adam;
+terah.weight= 125;
+delete terah.eyeColor;
 
+adam.spouse = terah;
 
+terah.children = {};
+terah.children = {
+  carson : {name:"Carson"},
+  carter : {name:"Carter"},
+  colton : {name:"Colton"},
+};
 
-
+adam.children = terah.children;
 
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
+// That did not go smoothly. I had a very hard time getting through that.
+// Looking back, I learned a lot in this challenge. I used a lot of reference to help
+// understand what I was doing, and why the code was/wasn't working.
+// This would have been a great challenge to do in pairs I think!
 // 
 // 
 // 
