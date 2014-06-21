@@ -1,13 +1,13 @@
 // GPS 1.2 - JavaScript
 
 // YOUR FULL NAMES:
-//  1.
-//  2.
+//  1.Anthony Ferragano
+//  2.Mack MacLean
 
 
 // 0. "YOU SIGNED... WHO?!"
 
-
+// person with attributes of name ag and quote
 
 
 // 1. "Here they Come!"
