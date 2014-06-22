@@ -132,4 +132,10 @@ a:hover{
 #fltext {
 	float:right;
 	color:#FCFFAA;
+} 
+#paint {
+	width:70%;
+	height:70%;
+	margin-right: 20%;
+	margin-left:20%;
 }
