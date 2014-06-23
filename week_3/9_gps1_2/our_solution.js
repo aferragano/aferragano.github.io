@@ -78,20 +78,20 @@ showQuote()
 // 5.  ** BONUS **
 // not advanced enough for this at this time, but will figure it out soon.
 
-//  6.  Your Reflection:
-This was a difficult challenge. I wish we had more time in the GPS to 
-accomplish the objectives with the guidance of the instructor. 
-There was a lot of sidetracking during the session, which may have been 
-necessary but maybe too extensive. I would have liked to continue working
-right after the hour session with my partner... or maybe after a short break,
-however, he had previous engagements. We were not able to pair online together
-again after the GPS session, which was detrimental to both of our experiences. 
-I used quite a few resources to get through the challenge on my own. 
-I feel very accomplished that I was able to complete this to the best of my
-ability. (I hope I did everything correctly.)
+// //  6.  Your Reflection:
+// This was a difficult challenge. I wish we had more time in the GPS to 
+// accomplish the objectives with the guidance of the instructor. 
+// There was a lot of sidetracking during the session, which may have been 
+// necessary but maybe too extensive. I would have liked to continue working
+// right after the hour session with my partner... or maybe after a short break,
+// however, he had previous engagements. We were not able to pair online together
+// again after the GPS session, which was detrimental to both of our experiences. 
+// I used quite a few resources to get through the challenge on my own. 
+// I feel very accomplished that I was able to complete this to the best of my
+// ability. (I hope I did everything correctly.)
  
 
-
+  
 
 
 
