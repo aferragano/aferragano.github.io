@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+	<title>week_5_technical</title>
+	<style type ="text/css"> @import url(stylesheets/stylesheet.css) </style>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	</head>
+	<header>week_5_technical</header>
+		<body id="container">
+
+			<div id="left">
+
+				<h2><ul><a href="http://aferragano.github.io/index.html">HOME </ul></h2>
+				<ul><a href="http://devbootcamp.com/">DBC</a></ul>
+				<ul><a href="http://aferragano.com/">my website</a></ul>
+				<ul><a href="http://instagram.com/aferragano">instagram</a></ul>
+				<ul><a href="https://www.facebook.com/GOOMBAHtony?ref=tn_tnmn">facebook</a></ul>
+				<ul><a href="mailto:aferragano@gmail.com">email</a></ul>
+			</div>
+
+			<div id="right">
+				<h1>Classes!</h1> 
+				<h2>when, why, and how classes</h2> 
+					<div id="container">
+					<p><h3>So what is a class?</h3>  As we have been progressing through Ruby, we have learned many things. We have learned how methods work, and how we can manipulate them to do what we want. But what if we have multiple methods we want to use, for specific data, that we want to reuse? </p>
+					<p><h3>Thats when we use a class.</h3>  There are many many examples of when to use a class. It may be difficult when to decide wether or not to use a class. The best advice to give, is to determine the desired input and output, then analyze how many methods will be required to accomplish your objective, and consider if you will need to repeat this code again at some point. A scenario where a class may be applicable is processing auction information.  </p>
+					<p><h3>Establishing a class</h3> To establish a class you have to type "class" and the name you want to call your class. You also close your class with an end. </p>
+					<p>class AuctionArt <br> ---------- <br> end <br></p>
+					<p>Lets pretend we had an array of information about an auction, that had each artists name, the number of times someone bid on their work, and the price of the final bid. Now we can initialize some variable. Initialize is a constructor of class. Variables with @ are instance variables, and can be used within the scope of this class. </p>
+					<p>class AuctionArt <br> <br>--def initialize(artist_name, num_of_art, num_of_bids, highest_bid) <br>----@artist_name = artist_name<br>----@num_of_art = num_of_art<br>----@num_of_bids = num_of_bids<br>----@highest_bid = highest_bid<br>--end<br> <br>--def most_popular<br>----method using @most_bids and @highest_bid to determine a score of popularity.<br>--end<br><br>end</p>
+					<h3>How to access this class?</h3><p>monet = AuctionArt.new("Monet", 8, 42, 2900000) <br>monet.most_popular </p> <p>matisse = AuctionArt.new("Matisse", 12, 83, 3450000) <br>matisse.most_popular </p>
+
+					<p><h3>Obviously, </h3> this code is just some pseudocode to give you an idea of how information is processed. Classes are really great for accepting different types of data including arrays and hashes, but also for looping and accepting and processing user input/information. For AuctionArt, we set the variable monet equal to AuctionArt.new with the array of information we wanted(we could have used hashes for more clarity), then took that new variable monet and passed it through the class method .most_popular. Lets say that the method .most_popular returns a score of 1 to 10, rating the popularity of the artist at the auction.</p>
+					<h3>How did they rate?</h3><p>monet = AuctionArt.new("Monet", 8, 42, 2900000) <br>monet.most_popular #==> 9 </p> <p>matisse = AuctionArt.new("Matisse", 12, 83, 3450000) <br>matisse.most_popular #==> 7 </p>
+					<p> Monet returned a value of 9 and Matisse returned a value of 7 in popularity. Hope that helped a little bit with classes.</p>
+
+
+					July 6, 2014
+			
+					</p>
+					</div>
+
+
+		</body>
+		<footer class="pfoot">  <BR>
+		thanks for checking out this page!</footer>
+
+</html>
