@@ -115,14 +115,20 @@ ul {
 	background-color: #99EE6B;
 	height: auto;
 	width:auto;
-	padding:40px;
+	padding:37px;
 	margin:8px;
 	border-bottom-right-radius: 80px;
 	border-top-left-radius: 100px;
 	float:left;
 }
-
-
+.techblog {
+	background-color: #B1F578;
+	height: 25px;
+}
+.cultblog {
+	background-color: #97EF4E;
+	height: 15px;
+}
 
 /* pseudo */ 
 a:link {
@@ -136,7 +142,7 @@ a:link {
 
 }
 a:hover{
-	font-size:2em;
+	color:#679933;
 
 }
 
