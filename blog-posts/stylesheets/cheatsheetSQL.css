@@ -15,7 +15,7 @@ header {
 	border-bottom-right-radius: 18px;
 	width:100%;
 }
-html { 
+html {
 	background: white;
 }
 p {
@@ -43,12 +43,7 @@ h2 {
 	color:black;
 	font-weight: bold;
 }
-h3 {
-	font-family: 'Open Sans', sans-serif;
-	letter-spacing: 2px;
-	color:black;
-	font-weight: bold;
-}
+
 
 a:visited{
 	color:#00A876;
@@ -61,19 +56,36 @@ a:hover{
 	font-size: 16px;
 }
 
-.box {
-	margin-right: auto;
-	margin-left: auto;
-}
-
-
 #container {
 	float:center;
 	margin: auto;
-	width: 85%;
+	width: 80%;
 
 }
+#tripletcontainer {
+	
+}
+#tripletdiv {
+	height: 30%;
+	width:30%;
+	background-color: white;
+}
 
+#wherediv {
+	height: 45%;
+	width:45%;
+	background-color: white;
+	float: auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#table {
+	height: 70%;
+	width:70%;
+	margin-left:auto;
+	margin-right:auto;
+}
 #left {
 	float:left;
 	text-align: left;
@@ -81,7 +93,7 @@ a:hover{
 	background:#99EE6B;
 	color:white;
 	padding: auto;
-	height:300px;
+	height:85px;
 	border-top-right-radius: 150px;
 	border-bottom-left-radius: 200px;
 	border-bottom-right-radius: 18px;
@@ -89,7 +101,7 @@ a:hover{
 
 #right {
 	float: right;
-	width: 70%;
+	width: 80%;
 	color:black;
 	background:#99EE6B;
 	padding: 8px;
@@ -98,44 +110,5 @@ a:hover{
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius: 18px;
 }
-#wcenter {
-	float: center;
-	width: 70%;
-	color:#C8FDA8;
-	background:#00A876;
-	padding: 4px;
-	margin: 10px;
-	border-top-right-radius: 110px;
-	border-bottom-left-radius: 20px;
-	border-bottom-right-radius: 18px;
-	
-}
 
-.pfoot {
-	float:left;
-	clear:both;
-	background:#99EE6B;
-	color:#FCFFAA;
-	font-size: 1em;
-	font-weight: bold;
-	font-family: 'Open Sans', sans-serif;
-	letter-spacing: 13px;
-	margin: 40px;
-	padding: 10px;
-	width:90%;
-	border-radius: 200px;
-	text-align: center;
-	border-top-right-radius: 0px;
-	border-bottom-left-radius: 20px;
-	
-}
-#fltext {
-	float:right;
-	color:#FCFFAA;
-} 
-#paint {
-	width:70%;
-	height:70%;
-	margin-right: 20%;
-	margin-left: 20%;
-}
+

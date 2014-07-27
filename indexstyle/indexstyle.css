@@ -1,6 +1,6 @@
 
 /* General Styles */
-
+   
 
 /* header and footer */
 header{
@@ -122,14 +122,25 @@ ul {
 	float:left;
 }
 .techblog {
-	background-color: #B1F578;
+	background-color: #BBF28A;
 	height: 25px;
 }
 .cultblog {
-	background-color: #97EF4E;
+	background-color: #8EE985;
 	height: 15px;
 }
-
+.techbloglong, .cultbloglong, .wireframebloglong {
+	height: auto;
+	width: 350px;
+	padding:37px;
+	margin:8px;
+	border-bottom-right-radius: 80px;
+	border-top-left-radius: 100px;
+	float:left;
+	border-bottom-right-radius: 80px;
+	border-top-left-radius: 100px;
+	background-color: #AEE57E;
+}
 /* pseudo */ 
 a:link {
 	font-size: 1.4em;
@@ -142,7 +153,7 @@ a:link {
 
 }
 a:hover{
-	color:#679933;
+	color:white;
 
 }
 

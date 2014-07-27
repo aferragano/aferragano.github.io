@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head>
+	<title>SQL CheatSHEET</title>
+	<style type ="text/css"> @import url(stylesheets/cheatsheetSQL.css) </style>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	</head>
+	<header>SQL CheatSHEET</header>
+		<body id="container">
+
+			<div id="left">
+
+				<h2><ul><a href="http://aferragano.github.io/index.html">HOME </a></ul></h2>
+
+			</div>
+
+			<div id="right">
+				<h2>Here are some of the most important words for SQL beginners.</h2> 
+
+				<div id="tripletcontainer">
+					<img id="tripletdiv" src="images/select.png" alt="Select. What are you selecting">
+					<img id="tripletdiv" src="images/from.png" alt="From. From what database?">
+					<img id="tripletdiv" src="images/where.png" alt="Where. where what happens?">
+				</div>
+				<h1>Here is our grade database:</h1> 
+				<img id="table" src="images/gradedatabasetable.png" alt="Grade database table">
+				<h1>Lets fill in some info in the form of SQL, and use a Comparison</h1>
+				<div id="tripletcontainer">
+					<img id="tripletdiv" src="images/first_name.png" alt="select first_name">
+					<img id="tripletdiv" src="images/grade_database.png" alt="Fromthe grade database">
+					<img id="tripletdiv" src="images/comparison.png" alt="Where grades are greater than or equal to 80">
+				</div>
+				<p> The previous will SELECT the first_name FROM grade_database WHERE the grade of the individual is greater than of equal to 80. This will give us 'Anthony', 'Anna', and 'Andrea' using th ecomparison operator >=. We could also use =, <, >, <=, >=, and <>(not equal).</p>
+				<h1>BETWEEN</h1> 
+				<img id="wherediv" src="images/between.png" alt="Where grade between 80 and 90">
+				<p id="wherediv"> This will give us 'Anthony', 'Anna', and 'Andrea', this time because it is asking for the first_name of those who scored between 80-90.</p>
+				<br>
+				<h1>IS NULL</h1> 
+				<img id="wherediv" src="images/is_null.png" alt="Where grade is null">
+				<p id="wherediv" > 'Peter' was sick and was unable to take the test. Asking for IS NULL will return those with no value in grade.</p><p>IS NOT NULL would give us the opposite of IS NULL</p>
+				<br>
+				<h1>LIKE</h1> 
+				<img id="wherediv" src="images/like.png" alt="Where first name is like 'An'">
+				<p id="wherediv" > Now we are asking for the last_name of individuals whose first_name is LIKE or had 'An' somwhere in it. This will give us 'Ferragano', 'Marie', and 'Barnoon'.</p><p>The % is used to identify the missing text surrounding the desired pattern. It could be used before/after your desire pattern. _ is used to identify only one missing character in a pattern.</p>
+				<br>
+				<h1>A few other terms I will cover on a later date:</h1>
+				<h1>GROUP BY</h1> <p>group by specific characteristics</p>
+				<h1>HAVING</h1> <p>having by specific characteristics</p>
+				<h1>ORDER BY</h1> <p>placing in order</p>
+				<h1>ASC</h1> <p>is the default and will order from small to large</p>
+				<h1>DESC</h1> <p>is the default and will order from large to small</p>
+
+
+		</body>
+		
+
+</html>
