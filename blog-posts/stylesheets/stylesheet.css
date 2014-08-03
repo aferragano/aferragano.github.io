@@ -2,7 +2,7 @@ header {
 	color:white;
 	font-size: 3em;
 	font-weight: bold;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Rokkitt', serif;
 	letter-spacing: 7px;
 	text-decoration: none;
 	margin: 20px;
@@ -85,6 +85,8 @@ a:hover{
 	border-top-right-radius: 150px;
 	border-bottom-left-radius: 200px;
 	border-bottom-right-radius: 18px;
+	font-family: 'Rokkitt', serif;
+	font-size: 18px;
 }
 
 #right {
@@ -127,6 +129,7 @@ a:hover{
 	text-align: center;
 	border-top-right-radius: 0px;
 	border-bottom-left-radius: 20px;
+	font-family: 'Rokkitt', serif;
 	
 }
 #fltext {
